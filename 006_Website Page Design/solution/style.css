@@ -1,0 +1,33 @@
+.img-container {
+  background-image: url(./images/showcase.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 40vh;
+  background-size: cover;
+}
+
+footer,
+nav,
+.merkez {
+  background-color: rgb(53, 66, 74);
+}
+
+.merkezalti img {
+  width: 158px;
+}
+.buton {
+  background-color: #e8491d;
+}
+
+footer img {
+  width: 180px;
+}
+
+.ikincip {
+  background-color: rgb(53, 66, 74);
+}
+
+.ucuncup {
+  background-color: rgb(53, 66, 74);
+}
