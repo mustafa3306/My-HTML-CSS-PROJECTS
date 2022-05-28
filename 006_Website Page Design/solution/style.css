@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 .img-container {
   background-image: url(./images/showcase.jpg);
   background-position: center;
@@ -34,4 +37,8 @@ footer img {
 
 .yolla {
   background-color: #e8491d;
+}
+.siteler {
+  background-color: #e6e6e6;
+  padding: 2rem;
 }
